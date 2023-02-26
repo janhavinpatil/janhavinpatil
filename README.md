@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on cool Python projects
 - 🤔 I’m looking for help with everything
 - 💬 Ask me about anything
-- 📫 How to reach me: <a href="mailto:patilnjanhavi@gmail.com">My Email </a>
+- 📫 Reach me at: <a href="mailto:patilnjanhavi@gmail.com">My Email </a>
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My hair was featured in Sunsilk's advertisemnt 😎
 
