@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1> This is janhavi Patil <h1>
+<h1> This is janhavi Patil </h1>
 
 - 🔭 I’m currently working on building landing pages
 - 🌱 I’m currently learning python and javascript
